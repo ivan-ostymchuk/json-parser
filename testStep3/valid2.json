@@ -1,0 +1,7 @@
+{
+    "key1": {
+        "nestedKey": 1,
+        "nestedKey2": 2
+    },
+    "key2": "2024-02-23"
+}
